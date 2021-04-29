@@ -1,5 +1,5 @@
-create database info;
-use info;
+create database insuarance;
+use insuarance;
 create table person (driver_id varchar(10),
 name varchar(20),
 address varchar(30),
